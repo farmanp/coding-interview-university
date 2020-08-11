@@ -27,7 +27,7 @@ Si vous souhaitez devenir ingénieur de fiabilité, ou ingénieur systèmes, sui
 ## Table of Contents
 
 - [C'est quoi?](#what-is-it)
-- [Pourquoi l'utilisier?](#why-use-it)
+- [Pourquoi l'utiliser?](#why-use-it)
 - [Comment s'en servir](#how-to-use-it)
 - [Se mettre dans l'humeur Googley](#get-in-a-googley-mood)
 - [J'ai décroché le Job?](#did-i-get-the-job)
@@ -37,7 +37,7 @@ Si vous souhaitez devenir ingénieur de fiabilité, ou ingénieur systèmes, sui
 - [A propos des ressources vidéo](#about-video-resources)
 - [Déroulement de l'entretien & préparations générales à l'entretien](#interview-process--general-interview-prep)
 - [Choisir un langage pour l'entretien](#pick-one-language-for-the-interview)
-- [List de livres](#book-list)
+- [Liste de livres](#book-list)
 - [Avant de commencer](#before-you-get-started)
 - [What you Won't See Covered](#what-you-wont-see-covered)
 - [Prerequisite Knowledge](#prerequisite-knowledge)
@@ -703,7 +703,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - binary search using recursion
 
 - ### Bitwise operations
-    - [ ] [Bits cheat sheet](https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/bits-cheat-cheet.pdf) - you should know many of the powers of 2 from (2^1 to 2^16 and 2^32)
+    - [ ] [Bits cheat sheet](https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/bits-cheat-sheet.pdf) - you should know many of the powers of 2 from (2^1 to 2^16 and 2^32)
     - [ ] Get a really good understanding of manipulating bits with: &, |, ^, ~, >>, <<
         - [ ] [words](https://en.wikipedia.org/wiki/Word_(computer_architecture))
         - [ ] Good intro:
